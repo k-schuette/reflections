@@ -1,0 +1,72 @@
+How did viewing a diff between two versions of a file
+help you see the bug that was introduced?
+The computer is more quickly and more accurately able to
+compare two files because it can scan character by
+character. A human reading tends to elide over words,
+seeing what he or she thinks is there instead of what
+is there.
+Also, the computer can bring to my attention the exact
+spots where there was a difference, instead of me
+tediously checking through correct lines.
+
+How could having easy access to the entire history of
+a file make you a more efficient programmer in the long
+term?
+Sometimes I come up with a good or interesting bit of
+code that doesn't quite work for the current project,
+but it would be a shame to lose it all together.
+Other times I try another track because the current
+track seems not to be working; however I might need to
+come back to that first track so I don't want to lose
+it completely.
+While trying to improve code, if I try changing one
+or two things, and the changes don't work, I will want
+to go back to the version that I at least know works.
+
+What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs
+does?
+Manual commit pros: Choose logical break/change points
+for versioning.
+Manual commit cons: May forget to save or version
+a change.
+Auto commit pros: Removes chance of forgetfulness.
+Auto commit cons: The points at which the computer
+commits a version may not be logical or complete.
+
+Why do you think some version control systems, like
+Git, allow saving multiple files in one commit, while
+others, like Google Docs, treat each file separately?
+Different version control systems exist for different
+purposes and audiences. It would be rare for one word
+processing document to be affected by another one.
+A coding project, on the other hand, often has multiple
+files that depend on each other, so keeping the
+versions aligned is important and useful.
+
+How can you use the commands git log and git diff
+to view the history of files?
+git log: This is the command to use to see the
+commit history of a project.
+git diff: This command shows what changed between
+versions of files.
+
+How might using version control make you more
+confident to make changes that could break something?
+With version control I don't have to worry about
+forgetting what I wrote that worked. Instead I can
+try tweaking something with confidence, knowing
+that I can easily compare it to the previous version
+and find the difference if the code no longer works.
+
+Now that you have your workspace set up, what do you
+want to try using Git for?
+I want to start using Git to keep all versions of
+my projects so I don't lose ideas I had for
+bits of code that are useful but maybe not right
+for the exact thing I'm working on.
+I would also like to start using Git to create files
+that other programmers can look at, in order to
+feel more "legit" as a programmer and to be part of
+the community.
