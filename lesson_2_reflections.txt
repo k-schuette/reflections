@@ -10,4 +10,10 @@ it offers?
 The staging area is an in-between step between the
 working directory and the repository. The value is
 that it allows an area to check that you are doing
-what you intend to do before creating a commit. 
+what you intend to do before creating a commit.
+
+How can you use the staging area to make sure you have
+one commit per logical change?
+Since the staging area shows what is lined up to be
+committed, it allows the user to decide whether the
+changes go together and if so, how. 
