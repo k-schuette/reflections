@@ -16,4 +16,15 @@ How can you use the staging area to make sure you have
 one commit per logical change?
 Since the staging area shows what is lined up to be
 committed, it allows the user to decide whether the
-changes go together and if so, how. 
+changes go together and if so, how.
+
+What are some situations when branches would be helpful in
+keeping your history organized? How would branches help?
+Even in the limited experience I've had with programming,
+there have been times that I want to try doing something
+with completely different logic or function to solve the
+same problem. Sometimes I've had to go back and forth
+between two different structures or ideas before solving.
+So in this example that I have experienced, it would be
+helpful to have that record of two different thought
+processes so I don't completely lose any progress.
