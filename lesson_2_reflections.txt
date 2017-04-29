@@ -28,3 +28,8 @@ between two different structures or ideas before solving.
 So in this example that I have experienced, it would be
 helpful to have that record of two different thought
 processes so I don't completely lose any progress.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help me understand how reachability works
+and provide further context to what "detached head state"
+could entail without creating a new branch.
