@@ -33,3 +33,11 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help me understand how reachability works
 and provide further context to what "detached head state"
 could entail without creating a new branch.
+
+What is the result of merging two branches together? Why do
+we represent it in the diagram the way we do?
+Merging two branches results in one branch that keeps all
+the previous commits in the history. The log from that point
+forward will show the commits from the two branches
+interleaved in order according to timestamp. The diagram
+shows how two streams are now combined into one point.
