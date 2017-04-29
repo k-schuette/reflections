@@ -41,3 +41,18 @@ the previous commits in the history. The log from that point
 forward will show the commits from the two branches
 interleaved in order according to timestamp. The diagram
 shows how two streams are now combined into one point.
+
+What are the pros and cons of Git's automatic merging
+vs. always doing merges manually?
+Pros of automatic merging: Computer can more accurately
+compare files and catch every little change.
+Cons of automatic merging: If two files have significant
+changes, it is impossible for the computer to figure out
+the purpose and what makes sense to keep or discard.
+Pros of manual merge: A human has an overall understanding
+of what the program is trying to accomplish so can
+decide on what makes sense to keep or discard.
+Cons of manual merge: A human will not be able to catch
+every little change, for example if the changes are things
+like missed brackets or semi-colons. This means bugs
+could stay in the program instead of being fixed.
