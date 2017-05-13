@@ -9,4 +9,15 @@ remote repository?
 You would want to wait and pull changes manually if you were
 working on a separate branch of the project. Also the
 internet connection might be weak or unsecured, so it would
-be better to wait. 
+be better to wait.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+Branch: Offshoot of master branch. Used to experiment with
+new features that may or may not work and/or be
+incorporated into the master branch.
+Clone: Copy of a repository on a local host.
+Fork: Special type of clone on GitHub. Changes to a fork
+do not change the original repository, but GitHub
+maintains a link that shows which account originally
+created the repository.
