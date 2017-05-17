@@ -21,3 +21,12 @@ Fork: Special type of clone on GitHub. Changes to a fork
 do not change the original repository, but GitHub
 maintains a link that shows which account originally
 created the repository.
+
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+With a copy of the last known state of the remote stored
+locally, the user can keep track of when versions may have
+diverged, and has a base to refer to when collaborating on
+a project. Also, if the user is going to be working offline,
+he or she can compare differences on the local machine
+without having to merge right away.
