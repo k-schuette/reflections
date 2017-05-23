@@ -30,3 +30,15 @@ diverged, and has a base to refer to when collaborating on
 a project. Also, if the user is going to be working offline,
 he or she can compare differences on the local machine
 without having to merge right away.
+
+How would you collaborate without using Git or GitHub? What
+would be easier, and what would be harder?
+Without Git or GitHub, you would have to email files back and
+forth, or save them in a shared space like Google Drive or
+Dropbox.
+This would be easier since the shared folders are more widely
+accessible than GitHub, and there is no learning curve.
+This would be harder because GitHub has strong tools for
+tracking changes and for sharing pinpointed comments. In-line
+comments is a particularly powerful tool since feedback
+can be left at the exact spot needed.
