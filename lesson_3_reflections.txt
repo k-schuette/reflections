@@ -42,3 +42,13 @@ This would be harder because GitHub has strong tools for
 tracking changes and for sharing pinpointed comments. In-line
 comments is a particularly powerful tool since feedback
 can be left at the exact spot needed.
+
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+For a collaborative project, you would want to make changes
+in a separate branch in order to track your own specific changes.
+Making changes in a separate branch also allows your collaborators
+to review your changes and make comments before the master branch
+is changes.
+The benefit of making changes in the master branch is that it is
+a simpler and more direct process. 
